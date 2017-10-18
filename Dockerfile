@@ -1,5 +1,5 @@
 FROM alpine:edge
-MAINTAINER yanm yanm@chinatelecom.cn
+MAINTAINER myandpr myanstu@163.com
 USER root
 
 #copy files
